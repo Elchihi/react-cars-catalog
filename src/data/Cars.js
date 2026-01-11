@@ -1,6 +1,6 @@
 import bmwM3 from "../assets/images/bmwM3.webp";
 import audiA6 from "../assets/images/audiA6.webp";
-import mercedesCClass from "../assets/images/mercedesCClass.webp";
+import mercedescclass from "../assets/images/mercedescclass.webp";
 import porsche911 from "../assets/images/porsche911.webp";
 import Opel from "../assets/images/Opel.webp";
 import fordMustang from "../assets/images/fordMustang.webp";
@@ -27,7 +27,7 @@ const cars = [
     name: "Mercedes C-Class",
     brand: "Mercedes",
     price: 65000,
-    image: mercedesCClass,
+    image: mercedescclass,
   },
   {
     id: 4,
@@ -90,7 +90,7 @@ const cars = [
     name: "Mercedes GLC",
     brand: "Mercedes",
     price: 68000,
-    image: mercedesCClass,
+    image: mercedescclass,
   },
   {
     id: 13,
@@ -146,7 +146,7 @@ const cars = [
     name: "Mercedes S-Class",
     brand: "Mercedes",
     price: 150000,
-    image: mercedesCClass,
+    image: mercedescclass,
   },
   {
     id: 21,
@@ -202,7 +202,7 @@ const cars = [
     name: "Mercedes A-Class",
     brand: "Mercedes",
     price: 40000,
-    image: mercedesCClass,
+    image: mercedescclass,
   },
   {
     id: 29,
