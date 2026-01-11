@@ -1,0 +1,223 @@
+import bmwM3 from "../assets/images/bmwM3.webp";
+import audiA6 from "../assets/images/audiA6.webp";
+import mercedesCClass from "../assets/images/mercedesCClass.webp";
+import porsche911 from "../assets/images/porsche911.webp";
+import Opel from "../assets/images/Opel.webp";
+import fordMustang from "../assets/images/fordMustang.webp";
+import ChevyCamaro from "../assets/images/ChevyCamaro.webp";
+import tesla from "../assets/images/tesla.webp";
+
+const cars = [
+  {
+    id: 1,
+    name: "BMW M3",
+    brand: "BMW",
+    price: 85000,
+    image: bmwM3,
+  },
+  {
+    id: 2,
+    name: "Audi A6",
+    brand: "Audi",
+    price: 60000,
+    image: audiA6,
+  },
+  {
+    id: 3,
+    name: "Mercedes C-Class",
+    brand: "Mercedes",
+    price: 65000,
+    image: mercedesCClass,
+  },
+  {
+    id: 4,
+    name: "Porsche 911",
+    brand: "Porsche",
+    price: 120000,
+    image: porsche911,
+  },
+  {
+    id: 5,
+    name: "Opel Insignia",
+    brand: "Opel",
+    price: 25000,
+    image: Opel,
+  },
+  {
+    id: 6,
+    name: "Ford Mustang",
+    brand: "Ford",
+    price: 55000,
+    image: fordMustang,
+  },
+  {
+    id: 7,
+    name: "Chevrolet Camaro",
+    brand: "Chevrolet",
+    price: 52000,
+    image: ChevyCamaro,
+  },
+  {
+    id: 8,
+    name: "Tesla Model S",
+    brand: "Tesla",
+    price: 90000,
+    image: tesla,
+  },
+  {
+    id: 9,
+    name: "Tesla Model 3",
+    brand: "Tesla",
+    price: 40000,
+    image: tesla,
+  },
+  {
+    id: 10,
+    name: "BMW X5",
+    brand: "BMW",
+    price: 75000,
+    image: bmwM3,
+  },
+  {
+    id: 11,
+    name: "Audi Q7",
+    brand: "Audi",
+    price: 70000,
+    image: audiA6,
+  },
+  {
+    id: 12,
+    name: "Mercedes GLC",
+    brand: "Mercedes",
+    price: 68000,
+    image: mercedesCClass,
+  },
+  {
+    id: 13,
+    name: "Porsche Cayenne",
+    brand: "Porsche",
+    price: 110000,
+    image: porsche911,
+  },
+  {
+    id: 14,
+    name: "Opel Grandland",
+    brand: "Opel",
+    price: 22000,
+    image: Opel,
+  },
+  {
+    id: 15,
+    name: "Ford Explorer",
+    brand: "Ford",
+    price: 48000,
+    image: fordMustang,
+  },
+  {
+    id: 16,
+    name: "Chevrolet Tahoe",
+    brand: "Chevrolet",
+    price: 60000,
+    image: ChevyCamaro,
+  },
+  {
+    id: 17,
+    name: "Tesla Model X",
+    brand: "Tesla",
+    price: 120000,
+    image: tesla,
+  },
+  {
+    id: 18,
+    name: "BMW i8",
+    brand: "BMW",
+    price: 140000,
+    image: bmwM3,
+  },
+  {
+    id: 19,
+    name: "Audi R8",
+    brand: "Audi",
+    price: 170000,
+    image: audiA6,
+  },
+  {
+    id: 20,
+    name: "Mercedes S-Class",
+    brand: "Mercedes",
+    price: 150000,
+    image: mercedesCClass,
+  },
+  {
+    id: 21,
+    name: "Porsche Taycan",
+    brand: "Porsche",
+    price: 130000,
+    image: porsche911,
+  },
+  {
+    id: 22,
+    name: "Opel Mokka",
+    brand: "Opel",
+    price: 21000,
+    image: Opel,
+  },
+  {
+    id: 23,
+    name: "Ford F-150",
+    brand: "Ford",
+    price: 50000,
+    image: fordMustang,
+  },
+  {
+    id: 24,
+    name: "Chevrolet Silverado",
+    brand: "Chevrolet",
+    price: 55000,
+    image: ChevyCamaro,
+  },
+  {
+    id: 25,
+    name: "Tesla Cybertruck",
+    brand: "Tesla",
+    price: 70000,
+    image: tesla,
+  },
+  {
+    id: 26,
+    name: "BMW Z4",
+    brand: "BMW",
+    price: 65000,
+    image: bmwM3,
+  },
+  {
+    id: 27,
+    name: "Audi TT",
+    brand: "Audi",
+    price: 45000,
+    image: audiA6,
+  },
+  {
+    id: 28,
+    name: "Mercedes A-Class",
+    brand: "Mercedes",
+    price: 40000,
+    image: mercedesCClass,
+  },
+  {
+    id: 29,
+    name: "Porsche Macan",
+    brand: "Porsche",
+    price: 80000,
+    image: porsche911,
+  },
+  {
+    id: 30,
+    name: "porsche Boxster",
+    brand: "Porsche",
+    price: 70000,
+    image: porsche911,
+  },
+];
+
+export default cars;
